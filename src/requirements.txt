@@ -1,0 +1,3 @@
+﻿discord
+selenium
+python-dotenv 
